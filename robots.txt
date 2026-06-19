@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TimotheRingeard.github.io/sitemap.xml
+Sitemap: https://timotheringeard.github.io/sitemap.xml
