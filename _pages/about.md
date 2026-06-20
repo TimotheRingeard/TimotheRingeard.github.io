@@ -25,7 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Je suis doctorant en Probabilités au [MAP5](https://map5.mi.parisdescartes.fr/) à l'Université Paris Cité, sous la direction d'[Amandine Véber](https://veberamandine.wixsite.com/maths) et de [François Robin](https://www.insb.cnrs.fr/fr/personne/francois-robin).
+I'm a PhD student at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory, in Université Paris Cité. I'm supervised by [Amandine Véber](https://veberamandine.wixsite.com/maths) and [François Robin](https://www.insb.cnrs.fr/fr/personne/francois-robin).
 
-Ma recherche porte sur la modélisation de la dynamique des monomères et polymères d'actine dans la cellule, grace à des processus microscopiques aléatoires, à valeur mesure. Je m'intéresse notamment à la description macroscopique de es systèmes.
-
+My research focuses on mathematical models for cell biology. On the biological side, I'm working on the actin network. On the mathematical side, I'm using microscopic stochastic processes, such as measure valued processes. I'm interested in the macroscopic description of these systems.
