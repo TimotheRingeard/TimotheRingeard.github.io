@@ -9,9 +9,8 @@ profile:
   image: Photo_id_2024.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bureau 814D, 45 rue des Saints Pères
-    
-    [timothe.ringeard@gmail.com](mailto:timothe.ringeard@gmail.com)</p>
+    <p>Bureau 814D, 45 rue des Saints Pères</p>
+    <p><a href="mailto:timothe.ringeard@gmail.com">timothe.ringeard@gmail.com</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
