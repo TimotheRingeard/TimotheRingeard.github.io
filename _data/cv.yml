@@ -1,93 +1,61 @@
-cv:
-  name: Timothé
-  label: PhD student
-  email: timothe.ringeard@gmail.com
-  location: Paris, France
-  #image: ""
-  #summary: 
+- title: General Information
+  type: map
+  contents:
+  - name: Name
+    value: Timothé Ringeard
+  - name: Date of Birth
+    value: January 7th, 2002
+  - name: Languages
+    value: French, English
+  - name: Contact
+    value: timothe.ringeard@gmail.com
 
-  #social_networks:
-  #  - network: X
-  #    username: AlbertEinstein
-  #  - network: GitHub
-  #    username: example
-  #  - network: LinkedIn
-  #    username: example
-
-  #address:
-  #  street: 2712 Broadway St
-  #  city: San Francisco
-  #  region: California
-  #  postalCode: CA 94115
-  #  countryCode: US
-
-  sections:
-    Education:
-      - institution: Ecole Normale Supérieure
-        location: Paris, France
-        url: https://www.ens.psl.eu/
-        area: Mathématiques
-        studyType: L3 et M1
-        start_date: 2021
-        end_date: 2026
-        score: ""
-        courses:
-        highlights:
-      
-      - institution: Institut Mathématiques d'Orsay
-        location: Orsay, France
-        url: https://www.ens.psl.eu/
-        area: Mathématiques
-        studyType: M2
-        start_date: 2024
-        end_date: 2025
-        score: ""
-        courses:
-        highlights:
-
-      - institution: Lycée Louis le Grand
-        location: Paris, France
-        area: MPSI (mainly Maths and Physics)
-        studyType: classe préparatoire
-        start_date: 2019
-        end_date: 2021
-        highlights:
-
-    Experience:
-      - company: MAP5, Université Paris Cité
-        position: PhD student
-        location: Paris, France
-        start_date: 2026
-        end_date: 2029
-        summary: 
-        highlights:
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: MAP5, Université Paris Cité
+      year: 2026 - 2029
+      description:
+        - Modelling of actin network in the cell via microscopic stochastic processes
+        - title: Under the supervision of
+          contents:
+            - Amandine Véber (Professeur des Universités, MAP5, Université Paris-Cité)
+            - François Robin (Maître de conférences, IBPS, Sorbonne Université)
+    
+    - title: Master's Degree: Mathematics of Randomness
+      institution: Orsay Mathematical Institute
+      year: 2024-2025
+      description:
+        - Statistics
+        - Probability
+    
+    - title: Ecole Normale Supérieure
+      institution: Ecole Normale Supérieure, Paris
+      year: 2021 - 2026
+      description:
+        - Wide range of Mathematics topics, from Functionnal Analysis to Algebraic Topology
         
-    Volunteer:
-      - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
-        position: Co-Organiser with Perla Mallouk
-        location: MAP5, Paris
-        date: 2026-04
-        summary: Event for girls in high school to discover research in Mathematics 
-        highlights:
+    - title: Classe préparatoire
+      year: 2019-2021
+      institution: Lycée Louis le Grand, Paris
+      description:
+      - MPSI
 
-    Publications:
-      - title: A venir
-        authors:
-          - Timothé Ringeard
-          - Amandine Véber
-        publisher: ?
-        releaseDate: 2027
-        url: 
-        summary: 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Internship
+      institution: LJLL, Sorbonne Université
+      year: 2024
+      description:
+        - Analysis of a Parabolic equation coupled with a Transport equation
+        - title: Under the supervision of Ayman Moussa (Maître de conférence, LJLL, Sorbonne Université)
+    
 
-    Others Interests:
-      - name: Origami
-        #icon: fa-solid fa-tag
-        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-      - name: Rubik's cube
-      - name: Juggling
-
-    Certificates:
-      - name: Mathelatics of Randomness
-        date: 2025
-        issuer: Universtié Paris-Saclay
+- title: Other Interests
+  type: list
+  contents:
+    - Origami
+    - Rubik's cube
+    - Juggling
