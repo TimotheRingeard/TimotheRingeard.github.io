@@ -1,61 +1,98 @@
-- title: General Information
-  type: map
-  contents:
-  - name: Name
-    value: Timothé Ringeard
-  - name: Date of Birth
-    value: January 7th, 2002
-  - name: Languages
-    value: French, English
-  - name: Contact
-    value: timothe.ringeard@gmail.com
+cv:
+  name: Timothé
+  label: PhD Student
+  email: timothe.ringeard@gmail.com
+  location: Paris, France
+  image: ""
+  summary: A student in cell biology modelling via stochastic processes
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: MAP5, Université Paris Cité
-      year: 2026 - 2029
-      description:
-        - Modelling of actin network in the cell via microscopic stochastic processes
-        - title: Under the supervision of
-          contents:
-            - Amandine Véber (Professeur des Universités, MAP5, Université Paris-Cité)
-            - François Robin (Maître de conférences, IBPS, Sorbonne Université)
-    
-    - title: Master's Degree: Mathematics of Randomness
-      institution: Orsay Mathematical Institute
-      year: 2024-2025
-      description:
-        - Statistics
-        - Probability
-    
-    - title: Ecole Normale Supérieure
-      institution: Ecole Normale Supérieure, Paris
-      year: 2021 - 2026
-      description:
-        - Wide range of Mathematics topics, from Functionnal Analysis to Algebraic Topology
-        
-    - title: Classe préparatoire
-      year: 2019-2021
-      institution: Lycée Louis le Grand, Paris
-      description:
-      - MPSI
+  social_networks:
+    - network: GitHub
+      username: TimotheRingeard
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Internship
-      institution: LJLL, Sorbonne Université
-      year: 2024
-      description:
-        - Analysis of a Parabolic equation coupled with a Transport equation
-        - title: Under the supervision of Ayman Moussa (Maître de conférence, LJLL, Sorbonne Université)
-    
+  address:
+    street: Rue des Saints-Pères
+    city: Paris
+    region: France
+    postalCode: 75006
+    countryCode: FR
 
-- title: Other Interests
-  type: list
-  contents:
-    - Origami
-    - Rubik's cube
-    - Juggling
+  sections:
+    Education:
+      - institution: MAP5, Université Paris Cité
+        location: Paris, France
+        url: https://map5.mi.parisdescartes.fr/
+        area: Mathematics, Probability
+        studyType: PhD
+        start_date: 2026
+        end_date: 2029
+        score: ""
+        courses: 
+        highlights:
+
+      - institution: Ecole Normale Supérieure
+        location: Paris, France
+        area: Mathematics
+        studyType:
+        start_date: 2021
+        end_date: 2026
+        highlights:
+
+      - institution: Institu Mathematique d'Orsay
+        location: Orsay, France
+        area: Mathematics
+        studyType: Master 2
+        start_date: 2024
+        end_date: 2025
+        highlights:
+
+    Experience:
+      - institution: LJLL, Sorbonne Université
+        location: Paris, France
+        position: Internship
+        start_date: 2026
+        end_date: 2026
+        summary: Studying a Parabolic equation mixed with a Transport equation, under the supervision of Ayman Moussa (Maître de Conférence, LJLL
+        highlights:
+
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
+
+    Volunteer:
+      - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
+        position: Co-Organiser
+        location: MAP5, Paris
+        start_date: 2026-04
+        end_date: 2026-04
+        summary: An event where high school girls discover research in Mathematics and Informatics
+        highlights:
+
+    Publications:
+      - title: A venir
+        authors:
+          - Timothé Ringeard
+        publisher: 
+        releaseDate: 
+        url: 
+        summary: 
+
+    Languages:
+      - name: French
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: German
+      summary: "Intermediate"
+
+    Other Interests:
+      - name: Origami
+      - name: Rubik's cube
+      - name: Juggling
