@@ -121,13 +121,14 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
+      - name: German
+      summary: "Intermediate"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Other Interests:
+      - name: Origami
+      - name: Rubik's cube
+      - name: Juggling
