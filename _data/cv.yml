@@ -85,7 +85,7 @@ cv:
         start_date: 2023
         end_date: 2024
         summary: Estimation of the interaction betwenn human, social and environmental healths.
-        highlight: Supervised by Anne-Laure Fougères
+        highlights: Supervised by Anne-Laure Fougères
 
       - company: Norwegian University of Technology and Science (NTNU)
         position: Research Internship
@@ -93,7 +93,7 @@ cv:
         start_date: 2023
         end_date: 2023
         summary: Study of the S-transform and the boxed convolution operation in free probability.
-        highlight: Supervised by Kurusch Ebrahimi-Fard
+        highlights: Supervised by Kurusch Ebrahimi-Fard
 
     Volunteer:
       - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
@@ -102,11 +102,9 @@ cv:
         start_date: 2026
         end_date: 2026
         summary: An event where high school girls discover research in Mathematics and Informatics.
-        highlights: Co-organised with Perla Mallouk
+        highlights: Co-organised with <a href="perlamallouk.com">Perla Mallouk</a>
 
     Publications:
-      
-    Skills:
       
     Languages:
       - name: French
@@ -114,11 +112,3 @@ cv:
 
       - name: English
         summary: "Fluent"
-
-    Interests:
-      
-    Certificates:
-
-    Projects:
-
-    References:
