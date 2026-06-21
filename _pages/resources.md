@@ -9,14 +9,14 @@ nav_order: 4
 **ENS diploma thesis:** "Introduction au Domaine de Recherche"
 (2026)
 *Modèles stochastiques de réseaux de réactions chimiques*
-[report](IDR.pdf) and [slides](beamer_IDR.pdf) (in french)
+[report](/assets/pdf/IDR.pdf) and [slides](/assets/pdf/beamer_IDR.pdf) (in french)
 
 ---
 
 **M2 report:**
 (2025)
 *Stochastic spatial models for actin monomers-polymers dynamics*
-[report](report_M2.pdf) and [slides](beamer_Report_M2.pdf)
+[report](/assets/pdf/report_M2.pdf) and [slides](/assets/pdf/beamer_report_M2.pdf)
 
 ---
 
