@@ -3,7 +3,7 @@ cv:
   label: PhD Student
   email: timothe.ringeard@gmail.com
   location: Paris, France
-  image: ""
+  image: Photo_id_2024.jpeg
   summary: A student in cell biology modelling via stochastic processes
 
   social_networks:
@@ -22,11 +22,10 @@ cv:
       - institution: MAP5, Université Paris Cité
         location: Paris, France
         url: https://map5.mi.parisdescartes.fr/
-        area: Mathematics, Probability
-        studyType: PhD in Mathematics
+        area: Mathematics, Probability, Cell Biology
+        studyType: PhD in Mathematics applied to Biology
         start_date: 2026
         end_date: 2029
-        score: ""
         courses: 
         highlights: Supervised by Amandine Véber (PR, MAP5) and François Robin (CR, IBPS)
 
@@ -40,7 +39,7 @@ cv:
 
       - institution: Institut Mathematique d'Orsay
         location: Orsay, France
-        area: Mathematics
+        area: Mathematics, Probability, Statistics
         studyType: M2 Mathematics of Randomness
         start_date: 2024
         end_date: 2025
@@ -96,16 +95,16 @@ cv:
         highlights: Supervised by Kurusch Ebrahimi-Fard
 
     Volunteer:
-      - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
-        position: Co-Organizer
-        location: MAP5, Paris, France
+      - company: MAP5
+        position: Co-Organizer of the RJMI (Rendez-vous des Jeunes Mathématiciennes et Informaticiennes)
+        location: Paris, France
         start_date: 2026
         end_date: 2026
         summary: An event where high school girls discover research in Mathematics and Informatics.
         highlights:
 
-      - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
-        position: 
+      - company: ENS
+        position: Supervisor in the RJMI (Rendez-vous des Jeunes Mathématiciennes et Informaticiennes)
         location: ENS, Paris, France
         start_date: 2022
         end_date: 2025
@@ -119,6 +118,7 @@ cv:
         end_date: 2023
         summary: An event for young and old people to discover science inside laboratories.
         highlights: 
+          - Organized an event around the Nim game
 
     Publications:
       
