@@ -98,11 +98,27 @@ cv:
     Volunteer:
       - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
         position: Co-Organizer
-        location: Paris, France
+        location: MAP5, Paris, France
         start_date: 2026
         end_date: 2026
         summary: An event where high school girls discover research in Mathematics and Informatics.
-        highlights: Co-organised with <a href="perlamallouk.com">Perla Mallouk</a>
+        highlights:
+
+      - company: Rendez-vous des Jeunes Mathématiciennes et Informaticiennes
+        position: 
+        location: ENS, Paris, France
+        start_date: 2022
+        end_date: 2025
+        summary: An event where high school girls discover research in Mathematics and Informatics.
+        highlights:
+
+      - company: Fête de la Science
+        position: 
+        location: Paris, France
+        start_date: 2023
+        end_date: 2023
+        summary: An event for young and old people to discover science inside laboratories.
+        highlights: 
 
     Publications:
       
