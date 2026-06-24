@@ -4,20 +4,19 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Timothé
-middle_name: 
 last_name: Ringeard
 contact_note: >
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: 
 footer_text: >
-   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: # add your own keywords or leave empty
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: jekyll, mathematics, biology, MAP5, Universite-Paris-Cite, PhD,  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: hydrangea.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://timotheringeard.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -275,8 +274,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Breton]
-  first_name: [Tess]
+  last_name: [Ringeard]
+  first_name: [Timothe]
 
   style: apa
   locale: en
