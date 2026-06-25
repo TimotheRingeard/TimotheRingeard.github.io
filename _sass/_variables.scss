@@ -6,14 +6,14 @@
 @use "sass:color";
 
 // Colors
-$mycolor-light: #4b8adb !default;
-$myhovercolor-light: #9cc7ff !default;
-$textcolor-light: #4973c1 !default;
-$textcolor-dark: #7dabff !default;
+$mycolor-light: #6aa84f !default; /*#4b8adb*/
+$myhovercolor-light: #a4d68e!default; /* #9cc7ff*/
+$textcolor-light: #38761d !default; /*#4973c1*/
+$textcolor-dark: #a4d68e !default; /* #7dabff */
 $orange: #EA906C !default;
-$mycolor-dark: #99c5ff !default;
-$myhovercolor-dark: #82b8ff !default;
-$footer-bg-color: rgba(244, 249, 255, 0.99) !default;
+$mycolor-dark: #a4d68e !default; /* #99c5ff */
+$myhovercolor-dark: #93c47d !default; /* #82b8ff */
+$footer-bg-color: #a4d68e !default; /* rgba(244, 249, 255, 0.99) */
 $footer-bg-color-dark: rgba(23, 23, 64, 0.99) !default;
 $footer-text-color: #000000 !default;
 $red-color: #ff3636 !default;
