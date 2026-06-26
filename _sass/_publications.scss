@@ -42,6 +42,9 @@
       .preview {
         display: inline-block;
       }
+      img.preview {
+        width: 100%;
+      }
 
       .abbr {
         margin-bottom: 0.5rem;
