@@ -9,7 +9,7 @@ nav_order: 4
 
 
 
-# Talks
+## Talks
 
 
 **IMS Annual Meeting**, July 2026, Salzburg,
@@ -17,7 +17,7 @@ nav_order: 4
 [slides](/assets/pdf/beamer_IMS_nopause.pdf)
 
 
-# Reports
+## Reports
 
 
 **ENS diploma thesis:** "Introduction au Domaine de Recherche"
