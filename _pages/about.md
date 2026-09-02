@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bureau 814D, 45 rue des Saints Pères</p>
-    <p><a href="mailto:timothe.ringeard@gmail.com">timothe.ringeard@gmail.com</a></p>
+    <p><a href="mailto:timothe.ringeard@math.cnrs.fr">timothe.ringeard@math.cnrs.fr</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
@@ -29,4 +29,6 @@ latest_posts:
 
 I'm a PhD student at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory, in Université Paris Cité. I'm supervised by [Amandine Véber](https://veberamandine.wixsite.com/maths) and [François Robin](https://cell-dynamics.cnrs.fr/index.php?page=home).
 
-My research focuses on mathematical models for cell biology. On the biological side, I'm working on the actin network. On the mathematical side, I'm using microscopic stochastic processes, such as measure valued processes. I'm interested in the macroscopic description of these systems.
+My research focuses on mathematical models for cell biology. On the biological side, I'm intersted in the actin network and how it shapes the cell. On the mathematical side, I'm interested on the macroscopic behaviour and properties that emerge from relatively simple microscopic rules. Proteins, or molecules, are considered individually, and each of them evolves randomly with simple rules according to its direct environment. I'm more specifically interested in the case where these the space component of these molecules is continuous. Connected subjects includes Measure valued processes, Chemical reactions networks, Population dynamics, Parabolic equations...
+
+Don't hesitate to get in touch!
